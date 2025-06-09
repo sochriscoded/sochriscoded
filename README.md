@@ -1,19 +1,10 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-</div>
-  <h1>
-  Howdy Y'all
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-</div>
 
----
 
-# About Me
+# Resources and Repos
+
+
+## Boring Stuff
+
 
   - 🤠 Texas Native, but live in Utah now.
   - 🏫 Former Computer Science Teacher at the secondary/high school level.
@@ -22,7 +13,7 @@
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Languages and Tools
 
 
 <div>
